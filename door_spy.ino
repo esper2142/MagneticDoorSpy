@@ -11,7 +11,7 @@
   products from Adafruit!
 
   Written by Todd Treece for Adafruit Industries.
-  Code weaked and customized by Joshua King - esper2142@gmail.com
+  Code tweaked and customized by Joshua King - esper2142@gmail.com
   
   MIT license, all text above must be included in any redistribution
  ****************************************************/
